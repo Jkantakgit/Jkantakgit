@@ -1,4 +1,4 @@
-#Hello and Welcome! 👋
+# Hello and Welcome! 👋
 
 I'm a passionate second-year student at the Faculty of Information Technology, VUT 🎓, where I’m diving deep into the realms of Artificial Intelligence and Cybersecurity. I’m always excited about new technologies and look forward to contributing to open-source projects while enhancing my skills.
 💻 Tech I’m comfortable with:
