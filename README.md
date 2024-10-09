@@ -1,16 +1,13 @@
-## Hi there 👋
+#Hello and Welcome! 👋
 
-<!--
-**Jkantakgit/Jkantakgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate second-year student at the Faculty of Information Technology, VUT 🎓, where I’m diving deep into the realms of Artificial Intelligence and Cybersecurity. I’m always excited about new technologies and look forward to contributing to open-source projects while enhancing my skills.
+💻 Tech I’m comfortable with:
 
-Here are some ideas to get you started:
+    Languages: Java, C, Python, Go
+    Tools: Git, Gradle, JavaFX, Linux (Arch), H2 Database, CUnit, Qt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Get in touch:
+
+    Email: petr.holanek.007@gmail.com
+    LinkedIn: www.linkedin.com/in/petr-holánek-884280317
+    GitHub: https://github.com/Jkantakgit
